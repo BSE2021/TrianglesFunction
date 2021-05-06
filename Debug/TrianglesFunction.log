@@ -1,0 +1,4 @@
+﻿  TrianglesFunction.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\TrianglesFunction\TrianglesFunction.cpp(34,12): warning C4101: 'j': unreferenced local variable
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\TrianglesFunction\TrianglesFunction.cpp(34,9): warning C4101: 'i': unreferenced local variable
+  TrianglesFunction.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CS103\TrianglesFunction\Debug\TrianglesFunction.exe
